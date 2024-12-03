@@ -87,7 +87,7 @@ async def on_message(message):
             await message.channel.send(f'Error accessing file or folder: {e}')
 
 
-TOKEN = 'MTMxMzYxNDQ3MDY0NzY0ODM2Ng.GgIVOu.gc6ApYehixXfrAclVrU5YQRu7r6dYSvsVJSZDE'
+TOKEN = 'ENTER_TOKEN_HERE'
 client.run(TOKEN)
 
 
